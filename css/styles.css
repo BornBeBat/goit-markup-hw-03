@@ -44,7 +44,7 @@ img {
 }
 
 .container {
-  max-width: 1158px;
+  width: 1158px;
   margin: 0 auto;
   padding: 0 15px;
 }
@@ -200,7 +200,7 @@ img {
 .about .card {
   width: calc((100% - 72px) / 4);
 }
-.about .secondary-title {
+.wywfme {
   margin-bottom: 8px;
 }
 /* ====SECTION-2==== */

@@ -151,6 +151,7 @@ img {
   padding: 188px 0;
 }
 .hero .container {
+  width: 1158px;
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
@@ -200,7 +201,7 @@ img {
 .about .card {
   width: calc((100% - 72px) / 4);
 }
-.wywfme {
+.about .secondary-title {
   margin-bottom: 8px;
 }
 /* ====SECTION-2==== */

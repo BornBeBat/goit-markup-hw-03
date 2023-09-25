@@ -88,7 +88,6 @@ img {
 .header-container {
   display: flex;
   justify-content: space-between;
-  max-width: calc(1440px - 156px * 2);
 }
 .nav {
   display: flex;

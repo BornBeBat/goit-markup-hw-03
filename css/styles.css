@@ -85,7 +85,7 @@ img {
 .header {
   border-bottom: 1px solid var(--CORNFLOWER);
 }
-.header .container {
+.header-container {
   display: flex;
   justify-content: space-between;
   max-width: calc(1440px - 156px * 2);
